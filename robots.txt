@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iverfiry.github.io/iverfiry.txt.gz
+Sitemap: https://iverfiry.github.io/app/iverfiry.txt.gz
+Sitemap: https://iverfiry.github.io/assets/iverfiry.txt.gz
+Sitemap: https://iverfiry.github.io/css/iverfiry.txt.gz
+Sitemap: https://iverfiry.github.io/includes/iverfiry.txt.gz
+Sitemap: https://iverfiry.github.io/item/iverfiry.txt.gz
+Sitemap: https://iverfiry.github.io/src/iverfiry.txt.gz
